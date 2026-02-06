@@ -29,6 +29,21 @@ AI agents are great at executing CLI commands. They're less great at crafting HT
 
 ## Installation
 
+### Quick run (no install)
+
+```bash
+uvx openapi2cli generate https://petstore3.swagger.io/api/v3/openapi.json --name petstore
+```
+
+### Install as CLI tool
+
+```bash
+uv tool install openapi2cli
+openapi2cli generate https://httpbin.org/spec.json --name httpbin
+```
+
+### Add to a project
+
 ```bash
 uv add openapi2cli
 ```
