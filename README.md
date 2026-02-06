@@ -29,6 +29,12 @@ AI agents are great at executing CLI commands. They're less great at crafting HT
 
 ## Installation
 
+### One-liner
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Olafs-World/openapi2cli/main/install.sh | bash
+```
+
 ### Quick run (no install)
 
 ```bash
