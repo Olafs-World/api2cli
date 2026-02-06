@@ -1,4 +1,4 @@
-![openapi2cli banner](banner.png)
+![openapi2cli banner](https://raw.githubusercontent.com/Olafs-World/openapi2cli/main/banner.png)
 
 # openapi2cli 🔧
 
