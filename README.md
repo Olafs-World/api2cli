@@ -1,3 +1,5 @@
+![openapi2cli banner](banner.png)
+
 # openapi2cli 🔧
 
 [![CI](https://github.com/Olafs-World/openapi2cli/actions/workflows/ci.yml/badge.svg)](https://github.com/Olafs-World/openapi2cli/actions/workflows/ci.yml)
