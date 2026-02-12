@@ -56,10 +56,13 @@ openapi2cli generate https://httpbin.org/spec.json --name httpbin
 uv add openapi2cli
 ```
 
-### Install as OpenClaw skill
+### As an Agent Skill
 
 ```bash
-clawhub install openapi2cli
+npx skills add olafs-world/openapi2cli
+
+# or with OpenClaw
+clawhub install olafs-world/openapi2cli
 ```
 
 Or with pip:
